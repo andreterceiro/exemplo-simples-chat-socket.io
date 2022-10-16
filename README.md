@@ -1,5 +1,11 @@
 # chat-example
 
+Eu peguei este exemplo pronto ([https://github.com/socketio/chat-example](https://github.com/socketio/chat-example)).
+
+Quando tiver tempo e mais nada para fazer, ou seja, talvez nunca, eu dê um "tapa" nele.
+
+---
+
 This is the source code for a very simple chat example used for
 the [Getting Started](http://socket.io/get-started/chat/) guide
 of the Socket.IO website.

@@ -8,8 +8,8 @@ app.get('/', (req, res) => {
 });
 
 io.on('connection', (socket) => {
-  socket.on('chat message', msg => {
-    io.emit('chat message', msg);
+  socket.on('teste-env', msg => {
+    io.emit('teste-rec', msg);
   });
 });
 
